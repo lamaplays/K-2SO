@@ -3,7 +3,24 @@ simple discord bot built on star wars api (SWAPI)
 
 # setup
 1. clone this repo
-   ``` git clone https://github.com/lamaplays/K-2SO.git
-        cd K-2SO
    ```
+   git clone https://github.com/lamaplays/K-2SO.git
+   cd K-2SO
+   ```
+2. Install dependencies
+   ``` pip install -r requirements.txt ```
+3.create .env file
+  (See .env.example for a template.)
+
+4. quick test
+   ``` python k2so.py ```
+
+## example command 
+![spaceship exists. data fetched](imgs/example1.jpeg)
+![spaceship doesn't exist, data couldn't be fetched](imgs/example2.jpeg)
+
+
+
+
+   
    
