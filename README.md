@@ -3,11 +3,13 @@ simple discord bot built on star wars api (SWAPI)
 
 # setup
 1. clone this repo
+   
    ```
    git clone https://github.com/lamaplays/K-2SO.git
    cd K-2SO
    ```
-2. Install dependencies
+3. Install dependencies
+   
    ``` pip install -r requirements.txt ```
    
 3.create .env file
@@ -15,6 +17,7 @@ simple discord bot built on star wars api (SWAPI)
 add your .env file to .gitignore
 
 4. quick test
+   
    ``` python k2so.py ```
 
 ## example command 
