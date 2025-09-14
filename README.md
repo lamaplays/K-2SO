@@ -11,6 +11,7 @@ simple discord bot built on star wars api (SWAPI)
    ``` pip install -r requirements.txt ```
 3.create .env file
   (See .env.example for a template.)
+add your .env file to .gitignore
 
 4. quick test
    ``` python k2so.py ```
