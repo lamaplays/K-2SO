@@ -1,7 +1,10 @@
 # K-2SO🤖
 simple discord bot built on star wars api (SWAPI) 
 
-# setup
+# setup and prereqs
+Python 3.10+ and a Discord bot token.
+Enable "MESSAGE CONTENT INTENT" in the Discord Developer Portal for your bot.
+
 1. clone this repo
    
    ```
